@@ -1,0 +1,12 @@
+redis:
+redis客户端：Jedis
+1、Jedis是非线程安全的
+2、通过JedisPool获得Jedis实例
+3、直接使用Jedis中的方法
+
+持久化的方法：
+1、时间点转储
+2、追加
+
+redis集群：
+主从复制特性
