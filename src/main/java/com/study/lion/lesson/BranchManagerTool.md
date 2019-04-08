@@ -1,0 +1,2 @@
+#GitKraken
+Windows、Mac、Linux三个平台的git分之管理工具
